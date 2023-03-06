@@ -1,0 +1,11 @@
+C:\Users\Marko29\source\repos\SimpleRecorder\SimpleRecorder\bin\Debug\SimpleRecorder.exe.config
+C:\Users\Marko29\source\repos\SimpleRecorder\SimpleRecorder\bin\Debug\SimpleRecorder.exe
+C:\Users\Marko29\source\repos\SimpleRecorder\SimpleRecorder\bin\Debug\SimpleRecorder.pdb
+C:\Users\Marko29\source\repos\SimpleRecorder\SimpleRecorder\obj\Debug\SimpleRecorder.csproj.AssemblyReference.cache
+C:\Users\Marko29\source\repos\SimpleRecorder\SimpleRecorder\obj\Debug\SimpleRecorder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko29\source\repos\SimpleRecorder\SimpleRecorder\obj\Debug\SimpleRecorder.Form1.resources
+C:\Users\Marko29\source\repos\SimpleRecorder\SimpleRecorder\obj\Debug\SimpleRecorder.Properties.Resources.resources
+C:\Users\Marko29\source\repos\SimpleRecorder\SimpleRecorder\obj\Debug\SimpleRecorder.csproj.GenerateResource.cache
+C:\Users\Marko29\source\repos\SimpleRecorder\SimpleRecorder\obj\Debug\SimpleRecorder.csproj.CoreCompileInputs.cache
+C:\Users\Marko29\source\repos\SimpleRecorder\SimpleRecorder\obj\Debug\SimpleRecorder.exe
+C:\Users\Marko29\source\repos\SimpleRecorder\SimpleRecorder\obj\Debug\SimpleRecorder.pdb
